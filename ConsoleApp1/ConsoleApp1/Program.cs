@@ -11,7 +11,7 @@ namespace ConsoleApp1
 
             Console.WriteLine("Hello Minh Minh MIh Minh!");
 
-
+            Console.WriteLine("Hello Minh Minh MIh Minh!");
         }
     }
 }
